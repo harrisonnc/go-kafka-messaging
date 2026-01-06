@@ -1,5 +1,5 @@
 # go-kafka-messaging
-I want to learn go and Kafka is something I have always wanted to learn more about. Here is a small demo of kafka written in Go with the Kafka broker running in a Docker container
+Working with Go and experimenting with Kafka. This is a small demo of kafka written in Go with the Kafka broker running in a Docker container
 
 Kafka Docker Image
 ```
